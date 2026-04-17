@@ -36,3 +36,6 @@ Settings
 --------
 Position, size, and mode are saved here:
 %AppData%\SoundRadarOverlay\settings.json
+
+
+//Msg : The "SoundRadarOverlay.exe" can work on its own. Other files are its source code.
